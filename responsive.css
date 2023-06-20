@@ -1,0 +1,154 @@
+@media screen and (max-width:375px) {
+    .sec5{
+        width: 300px !important;
+    }
+}
+@media screen and (max-width:393px) {
+    .sec5{
+        width: 300px !important;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width:420px) {
+    .sec-one-content{
+        white-space: nowrap;
+        font-size: 12px !important;
+    }
+    .sec1-img {
+        margin-top: -45px;
+    }
+    .sec2{
+        margin-top: 400px !important;
+       }
+       .card1-content{
+        font-size: 8px;
+        padding-top: 50px;
+       }
+       .card1-content p{
+        white-space: nowrap;
+       }
+       .p1{
+        padding-bottom: 70px;
+       }
+}
+
+
+
+
+
+@media screen and (max-width:481px) {
+    .sec5{
+        max-width: 200px !important;
+    }
+    .sec1-img img{
+        margin-top: 1px;
+    }
+    .sec2{
+     margin-top: 300px !important;
+    }
+    .logo img{
+        width: 150px !important;
+    }
+    .button-1 .btn1{
+        padding: 6px 12px !important;
+    }
+}
+
+
+
+
+
+@media screen and (max-width:768px) {
+
+    .sec2 {
+        margin-top: 600px;
+    }
+
+    .sec3 {
+        gap: 100px !important;
+
+    }
+
+    .all-footer {
+        display: block;
+    }
+
+    .sec1-img img {
+        width: 300px;
+    }
+
+    .sec-one-content {
+        text-align: center;
+        padding-top: 70px;
+    }
+
+    .all-sec1 {
+        gap: 0px !important;
+    }
+
+    .card1-content {
+        text-align: center;
+    }
+    .sec5{
+        max-width: 400px !important;
+    }
+
+}
+
+
+@media screen and (max-width:771px) {
+    .all-sec1{
+        gap: 0px !important;
+    }
+}
+
+
+@media screen and (max-width:878px) {
+
+.all-footer{
+    display: block !important;
+    padding-left: 70px;
+    padding-top: -50px !important;
+}
+footer{
+    height: 800px !important;
+}
+}
+
+@media screen and (max-width:1232px) {
+
+    .card1-content {
+        text-align: center;
+    }
+
+
+    .sec-one-content {
+        text-align: center;
+        padding-top: 70px;
+    }
+
+
+
+    footer {
+        margin-top: 00px;
+    }
+
+    .sec5 {
+        top: 100px !important;
+    }
+
+    .sec2 {
+        margin-top: 600px;
+    }
+
+    .sec3 {
+        gap: 100px !important;
+
+    }
+
+}
